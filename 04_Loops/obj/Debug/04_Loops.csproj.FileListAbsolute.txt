@@ -1,0 +1,7 @@
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe.config
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.exe
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\bin\Debug\04_Loops.pdb
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.AssemblyReference.cache
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.csproj.CoreCompileInputs.cache
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.exe
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\04_Loops\obj\Debug\04_Loops.pdb

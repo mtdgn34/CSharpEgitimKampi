@@ -1,0 +1,7 @@
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe.config
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.exe
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\bin\Debug\03_MakingDecision.pdb
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.exe
+C:\Users\Mete\Documents\Murat Yücedağ C# Eğitim Kampı\1-CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.pdb
