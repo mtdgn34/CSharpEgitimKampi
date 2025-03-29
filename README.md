@@ -24,3 +24,8 @@ Bu derste, foreach döngüsünün nasıl uygulanacağını öğrenip örnek olar
 
 📍 Ders 8: Metotlar
 Bu derste geriye değer döndürmeyen ve geriye değer döndüren metotları öğrendim. Metotlaro string ve int parametreleri ile örnekler uygulayarak pekiştirdim. 
+
+
+📍 C# Eğitim Kampının 17. dersinde Entity Framework metotları ile bir istatistik programı oluşturduk. Burada var olan tablo verilerinin listelenmesi, ortalamaların alınması gibi yöntemleri öğrendim.
+![C# Eğitim Kampı Ekran Görüntüsü](https://github.com/user-attachments/assets/1e4665e8-1fb8-49c4-a95f-23f1576cc742)
+
